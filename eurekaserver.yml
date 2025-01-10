@@ -2,8 +2,6 @@ server:
   port: 8070
 
 eureka:
-  server:
-    enableSelfPreservation: false
   instance:
     hostname: localhost
   client:
